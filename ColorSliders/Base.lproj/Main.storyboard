@@ -152,7 +152,7 @@
                         <outlet property="greenSlider" destination="g3a-To-Lpo" id="8xv-yW-sTb"/>
                         <outlet property="greenValueLabel" destination="02x-3m-Mwh" id="LLi-aC-1h0"/>
                         <outlet property="redSlider" destination="Bst-FL-wRL" id="QH0-zG-jOg"/>
-                        <outlet property="redValueLabel" destination="Bst-FL-wRL" id="RQh-Zx-vw7"/>
+                        <outlet property="redValueLabel" destination="dO2-Mi-dej" id="Vcj-Ef-hAv"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
